@@ -1,0 +1,6 @@
+@ISDS454_Group7_IMS_HostAddress = http://localhost:5114
+
+GET {{ISDS454_Group7_IMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
